@@ -1,4 +1,4 @@
-# FRT2
+# FRT PROJECT
  EcoSculpture: Future Ready Talent Internship Project
 # EcoSculpture Website
 
@@ -54,6 +54,23 @@ Azure Static Web Apps is leveraged for hosting the EcoSculpture Website. This se
 ## Hosting Deployment Using Static Web Apps
 
 ![Alt Text](i2.png)
+
+# Project Demo:
+
+![Alt Text](home.png)
+
+![Alt Text](about.png)
+
+![Alt Text](po.png)
+
+![Alt Text](po1.png)
+
+![Alt Text](testimonial.png)
+
+![Alt Text](blog.png)
+
+![Alt Text](contact.png)
+
 
 ### Installation
 1. Clone the repository.
