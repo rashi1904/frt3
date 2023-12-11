@@ -58,4 +58,4 @@ Azure Static Web Apps is leveraged for hosting the EcoSculpture Website. This se
 ### Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/rmk1904/FRT2.git/
+   git clone https://github.com/rmk1904/frt3.git/
